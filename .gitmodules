@@ -1,0 +1,3 @@
+[submodule "dasuntheekshanablog/themes/hello-friend"]
+	path = dasuntheekshanablog/themes/hello-friend
+	url = https://github.com/panr/hugo-theme-hello-friend.git
